@@ -1,0 +1,67 @@
+.heichat-content{
+    margin-top: 20px;
+}
+.center-logo-wrapper{
+    text-align: center;
+    position: relative;
+}
+.heichat-center-logo{
+    width: 100px;
+}
+.heichat-step-wrapper{
+    margin-top: 50px;
+}
+.logo-tip{
+    position: absolute;
+    top: -20px;
+}
+.step-ok{
+    width: 20px;
+}
+.heichat-step{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.heichat-step-tip{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heichat-button{
+    color: white;
+    background-color: #30AC8E;
+    border: none;
+    border-radius: 5px;
+    padding: 3px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.heichat-title{
+    font-size: 18px;
+    color:black;
+    margin-bottom: 20px;
+}
+a:hover {
+    color: inherit; /* 或者使用具体的颜色值 */
+    text-decoration: none; /* 取消下划线 */
+}
+.panel-button{
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color: #30AC8E;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.mt30{
+    margin-top: 30px
+}
+.mt5{
+    margin-top: 5px
+}
